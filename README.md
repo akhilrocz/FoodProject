@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is a robust food delivery application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The app provides a user-friendly interface with dynamic restaurant listings, menu exploration, efficient cart management, secure user authentication, order placement and confirmation, payment integration, order history, and a responsive and scalable design.
+This is a robust food delivery application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The app provides a user-friendly interface with dynamic restaurant listings, menu exploration, efficient cart management, secure user authentication, order placement and confirmation, order history, and a responsive and scalable design.
 
 ## Technologies Used
 
@@ -50,10 +50,9 @@ This is a robust food delivery application developed using the MERN (MongoDB, Ex
 1. Clone the repository.
 2. Install dependencies using `npm install` in both the client and server directories.
 3. Set up your MongoDB database and provide the connection string in the server configuration.
-4. Set up your Stripe API keys for payment integration.
-5. In the client directory, run 'npm start' to start the frontend development server.
-6. Access the application in your browser at http://localhost:3000/.
-7. Run the server using `nodemon run server` in the backend directory.
+4. In the client directory, run 'npm start' to start the frontend development server.
+5. Access the application in your browser at http://localhost:3000/.
+6. Run the server using `nodemon run server` in the backend directory.
 
 ## Contributing
 
